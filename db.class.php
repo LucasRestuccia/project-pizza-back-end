@@ -4,8 +4,8 @@
  * Db Clase para trabajar con Bases de Datos usando PDO
  * 
  * 
- * @author Fabriel Taboada <fabrieltaboada@gmail.com>
- * @link https://github.com/ftaboada00         
+ * @author Lucas Restuccia <lucasrestu2207@gmail.com>
+ * @link https://github.com/LucasRestuccia         
  * @version 1.0.0
  * @copyright 2024 
  * 
